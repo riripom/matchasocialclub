@@ -5,7 +5,7 @@ body{
 }
 
 section.top-page{
-    background: url('../images/labububackground.jpg');
+    background: url('images/labububackground.jpg');
     background-size: cover;
     height: 85vh;
 
@@ -65,7 +65,7 @@ div.landing-page h3{
 section.content{
     padding: 30px;
     padding-top: 30px;
-    background-image: url('../images/backgroundvert.jpg');
+    background-image: url('images/backgroundvert.jpg');
 }
 
 section.content h2{
